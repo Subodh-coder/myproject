@@ -1,4 +1,4 @@
 # myproject
 This is my first repository
 <br>
-Author-Subodh Yadav
+Author-Subodh Kumar Yadav
